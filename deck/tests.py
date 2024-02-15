@@ -4,7 +4,7 @@ __maintainers__ = ["Chase Roberts"]
 from django.test import TestCase
 from django.test.client import RequestFactory
 
-from deck.views import *
+
 
 
 class DeckTest(TestCase):
